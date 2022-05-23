@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" style="width:100%;" alt="Snake">
 
 <!--
-**Odilbukh/Odilbukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oooiik/oooiik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 -->
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=oooiik&count_private=true&show_icons=true&theme=dracula)](https://github.com/Odilbukh/github-readme-stats)
+[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=oooiik&count_private=true&show_icons=true&theme=dracula)](https://github.com/oooiik/github-readme-stats)
 
 <br />
 
