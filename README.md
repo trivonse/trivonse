@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Javascipt" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />][javascript]
 [<img align="left" alt="Axios" width="30px" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" />][axios]
 [<img align="left" alt="Vue" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/vue.png" />][vue]
-[<img align="left" alt="Vuetify" width="30px" src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-300.png" />][vuetify]
+[<img align="left" alt="Vuetify" width="30px" src="https://styles.redditmedia.com/t5_3nu8v/styles/communityIcon_ueewexj8rzu91.png" />][vuetify]
 [<img align="left" alt="VueX" width="30px" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" />][vuex]
 [<img align="left" alt="Pinia" width="25px" src="https://pinia.vuejs.org/logo.svg" />][pinia]
 <br />
