@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" style="width:100%;" alt="Snake">
 
 <!--
-**oooiik/oooiik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jamik-dev/jamik-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 -->
@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=oooiik&count_private=true&show_icons=true&theme=dracula)](https://github.com/oooiik/github-readme-stats)
+[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=oooiik&count_private=true&show_icons=true&theme=dracula)](https://github.com/jamik_dev/github-readme-stats)
 
 <br />
 
-[email]: mailto:toshevobidjon@gmail.com
-[telegram]: https://t.me/Oik_Group
-[instagram]: https://instagram.com/obid_98
-[linkedin]: https://www.linkedin.com/in/obidjon-toshev-04b2351b6
+[email]: mailto:jamik.oik.group@gmail.com
+[telegram]: https://t.me/jamik_dev
+[instagram]: https://instagram.com/jamshid_khamidovich
+[linkedin]: https://www.linkedin.com/in/jamshid-toshov-25b9b2219
 
 [laravel]: https://laravel.com
 [symfony]: https://symfony.com
