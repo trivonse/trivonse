@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 <br />
 ### Frontend  knowledge:
 [<img align="left" alt="Html5" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/html5.png" />][html5]
-[<img align="left" alt="Css3" width="30px" src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3.png" />][css3]
+[<img align="left" alt="Css3" width="30px" src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png" />][css3]
 [<img align="left" alt="Bootstrap" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
 [<img align="left" alt="Javascipt" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />][javascript]
-[<img align="left" alt="Axios" width="30px" src="https://www.pngitem.com/pimgs/m/91-913031_axios-axios-logo-hd-png-download.png" />][axios]
+[<img align="left" alt="Axios" width="30px" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" />][axios]
 [<img align="left" alt="Vue" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/vue.png" />][vue]
 [<img align="left" alt="Vuetify" width="30px" src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-300.png" />][vuetify]
 [<img align="left" alt="VueX" width="30px" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" />][vuex]
