@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=oooiik&count_private=true&show_icons=true&theme=dracula)](https://github.com/jamik_dev/github-readme-stats)
+[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamik-dev&count_private=true&show_icons=true&theme=dracula)](https://github.com/jamik_dev/github-readme-stats)
 
 <br />
 
