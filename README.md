@@ -32,15 +32,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 ### Telegram Bot:
-[<img align="left" alt="Linux Terminal" width="30px" src="https://cdn-icons-png.flaticon.com/512/5064/5064876.png" />][shell]
-[<img align="left" alt="Linux Shell" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
-[<img align="left" alt="MySQL" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mysql.png" />][mysql]
-[<img align="left" alt="Redis" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/redis.png" />][redis]
-[<img align="left" alt="Vue" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/apache.png" />][apache]
-[<img align="left" alt="Vue" width="30px" src="https://pics.freeicons.io/uploads/icons/png/2377737431551941711-512.png" />][nginx]
-[<img align="left" alt="Docker" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919840.png" />][composer]
-[<img align="left" alt="Npm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
-[<img align="left" alt="Vue" width="30px" src="https://cdn-icons-png.flaticon.com/512/59/59137.png" />][wordpress]
+[<img align="left" alt="Python" width="30px" src="https://e7.pngegg.com/pngimages/761/45/png-clipart-professional-python-programmer-computer-programming-android-android-blue-logo.png" />][python]
+[<img align="left" alt="Aiogram" width="30px" src="https://docs.aiogram.dev/ru/stable/_static/logo.png" />][aiogram]
+[<img align="left" alt="Postgres" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
+
+
 <br />
 <br />
 ### Connect with me:
