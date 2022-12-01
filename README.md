@@ -1,5 +1,9 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
+- 🔭 I’m currently working with [Vue.js](https://vuejs.org/)
+ 
+- 🌱 I’m currently learning new things about Vue.js 
+
 <img src="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" style="width:100%;" alt="Snake">
 
 <!--
@@ -50,6 +54,9 @@ Here are some ideas to get you started:
 <br />
 
 [![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamik-dev&count_private=true&show_icons=true&theme=dracula)](https://github.com/jamik_dev/github-readme-stats)
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmasoudih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
