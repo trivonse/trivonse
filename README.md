@@ -24,10 +24,11 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
+<hr>
 ### Technologies I am familiar with:
+<h3>Frontend  knowledge</h3>
 [<img align="left" alt="Html5" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/html5.png" />][html5]
-[<img align="left" alt="Css3" width="50px" src="https://github.com/siberfx/siberfx/raw/main/icons/css3.png" />][css3]
+[<img align="left" alt="Css3" width="30px" src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3.png" />][css3]
 [<img align="left" alt="Bootstrap" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
 [<img align="left" alt="Javascipt" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />][javascript]
 [<img align="left" alt="Axios" width="30px" src="https://www.pngitem.com/pimgs/m/91-913031_axios-axios-logo-hd-png-download.png" />][axios]
@@ -37,15 +38,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Pinia" width="30px" src="https://pinia.vuejs.org/logo.svg" />][pinia]
 [<img align="left" alt="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" />][figma]
 
-<br />
-
-
-
-
-
-
-
-
+<hr>
+<h3>Telegram Bot</h3>
 [<img align="left" alt="Linux Terminal" width="30px" src="https://cdn-icons-png.flaticon.com/512/5064/5064876.png" />][shell]
 [<img align="left" alt="Linux Shell" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
 [<img align="left" alt="MySQL" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mysql.png" />][mysql]
@@ -56,6 +50,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Npm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
 [<img align="left" alt="Vue" width="30px" src="https://cdn-icons-png.flaticon.com/512/59/59137.png" />][wordpress]
 
+<hr>
 <br />
 <br />
 <br />
@@ -82,8 +77,6 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/jamshid_khamidovich
 [linkedin]: https://www.linkedin.com/in/jamshid-toshov-25b9b2219
 
-<hr>
-<h3>Frontend knowledge</h3>
 [html5]: https://www.w3schools.com/html
 [css3]: https://www.w3schools.com/css
 [bootstrap]: https://getbootstrap.com
