@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with [Vue.js](https://vuejs.org/)
  
-- 🌱 I’m currently learning new things about Vue.js 
+- 🌱 Mathematic, Algorithm solver, English, Vue js developer, Workout lover
 
 <img src="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" style="width:100%;" alt="Snake">
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 [![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamik-dev&count_private=true&show_icons=true&theme=dracula)](https://github.com/jamik_dev/github-readme-stats)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmasoudih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamik-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
@@ -65,32 +65,35 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/jamshid_khamidovich
 [linkedin]: https://www.linkedin.com/in/jamshid-toshov-25b9b2219
 
-[laravel]: https://laravel.com
-[symfony]: https://symfony.com
-[linux]: https://www.linux.org
-[ubuntu]: https://ubuntu.com
-[npm]: https://www.npmjs.com
-[php]: https://www.php.net
-[mysql]: https://www.mysql.com
-[redis]: https://redis.io
-[bootstrap]: https://getbootstrap.com
+<hr>
+<h3>Frontend knowledge</h3>
 [html5]: https://www.w3schools.com/html
 [css3]: https://www.w3schools.com/css
-[v3c]: https://www.w3.org
+[bootstrap]: https://getbootstrap.com
+[javascript]: https://www.javascript.com
+[axios]: https://axios-http.com
 [vue]: https://vuejs.org
-[docker]: https://docker.com
-[shell]: https://ubuntu.com/tutorials/command-line-for-beginners
+[vuetify]: https://vuetifyjs.com
+[vuex]: https://vuex.vuejs.org
+[pinia]: https://pinia.vuejs.org
+[figma]: https://www.figma.com
+<hr>
+<h3>Telegram bot</h3>
+[python]: https://www.python.org
+[aiogram]: https://docs.aiogram.dev
+[postgresql]: https://www.postgresql.org
+[sqlite3]: https://www.sqlite.org
+<hr>
+[npm]: https://www.npmjs.com
+[v3c]: https://www.w3.org
 [postman]: https://postman.com
 [sublime]: https://www.sublimetext.com/
-[webstorm]: https://www.jetbrains.com/webstorm/
-[phpstorm]: https://www.jetbrains.com/phpstorm/
+[vscode]: https://code.visualstudio.com
+
+[linux]: https://www.linux.org
+[ubuntu]: https://ubuntu.com
 [terminal]: https://cocalc.com/doc/terminal.html
 
-[pusher]: https://pusher.com/
-[apache]: https://www.apache.org/
-[nginx]: https://nginx.org/ru/
-[composer]: https://getcomposer.org/
-[wordpress]: https://wordpress.com/ru/
 © 2022 GitHub, Inc.
 Terms
 Privacy
