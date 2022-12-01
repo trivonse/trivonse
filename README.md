@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="PhpStorm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" />][phpstorm]
 [<img align="left" alt="Sublime" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.png" />][sublime]
 [<img align="left" alt="PostMan" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
-<br />
+
 ### Frontend  knowledge:
 [<img align="left" alt="Html5" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/html5.png" />][html5]
 [<img align="left" alt="Css3" width="30px" src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3.png" />][css3]
@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Npm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
 [<img align="left" alt="Vue" width="30px" src="https://cdn-icons-png.flaticon.com/512/59/59137.png" />][wordpress]
 
-<hr>
 
 ### Connect with me:
 
