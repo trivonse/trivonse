@@ -32,11 +32,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 ### Telegram Bot:
-[<img align="left" alt="Python" width="30px" src="https://e7.pngegg.com/pngimages/761/45/png-clipart-professional-python-programmer-computer-programming-android-android-blue-logo.png" />][python]
+[<img align="left" alt="Python" width="30px" src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" />][python]
 [<img align="left" alt="Aiogram" width="30px" src="https://docs.aiogram.dev/ru/stable/_static/logo.png" />][aiogram]
 [<img align="left" alt="Postgres" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
-
-
 <br />
 <br />
 ### Connect with me:
@@ -51,8 +49,6 @@ Here are some ideas to get you started:
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamik-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
 
 [email]: mailto:jamik.oik.group@gmail.com
 [telegram]: https://t.me/jamik_dev
