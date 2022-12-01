@@ -11,7 +11,6 @@
 Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 -->
-<hr>
 ### Tools and Programs:
 [<img align="left" alt="Linux" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
 [<img align="left" alt="Linux Ubuntu" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="PhpStorm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" />][phpstorm]
 [<img align="left" alt="Sublime" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.png" />][sublime]
 [<img align="left" alt="PostMan" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
-<hr>
+<br />
 ### Frontend  knowledge:
 [<img align="left" alt="Html5" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/html5.png" />][html5]
 [<img align="left" alt="Css3" width="30px" src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3.png" />][css3]
@@ -32,7 +31,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Pinia" width="30px" src="https://pinia.vuejs.org/logo.svg" />][pinia]
 [<img align="left" alt="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" />][figma]
 
-<hr>
 ### Telegram Bot:
 [<img align="left" alt="Linux Terminal" width="30px" src="https://cdn-icons-png.flaticon.com/512/5064/5064876.png" />][shell]
 [<img align="left" alt="Linux Shell" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
@@ -78,13 +76,11 @@ Here are some ideas to get you started:
 [vuex]: https://vuex.vuejs.org
 [pinia]: https://pinia.vuejs.org
 [figma]: https://www.figma.com
-<hr>
-<h3>Telegram bot</h3>
+
 [python]: https://www.python.org
 [aiogram]: https://docs.aiogram.dev
 [postgresql]: https://www.postgresql.org
 [sqlite3]: https://www.sqlite.org
-<hr>
 [npm]: https://www.npmjs.com
 [v3c]: https://www.w3.org
 [postman]: https://postman.com
