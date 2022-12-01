@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 ### Tools and Programs:
 [<img align="left" alt="Linux" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
 [<img align="left" alt="Linux Ubuntu" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
-[<img align="left" alt="Docker" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/docker.png" />][docker]
-[<img align="left" alt="PhpStorm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" />][phpstorm]
 [<img align="left" alt="Sublime" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.png" />][sublime]
 [<img align="left" alt="PostMan" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
 <br />
@@ -30,6 +28,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="VueX" width="30px" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" />][vuex]
 [<img align="left" alt="Pinia" width="30px" src="https://pinia.vuejs.org/logo.svg" />][pinia]
 [<img align="left" alt="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" />][figma]
+<br />
 <br />
 ### Telegram Bot:
 [<img align="left" alt="Linux Terminal" width="30px" src="https://cdn-icons-png.flaticon.com/512/5064/5064876.png" />][shell]
@@ -58,7 +57,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamik-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
 
 [email]: mailto:jamik.oik.group@gmail.com
 [telegram]: https://t.me/jamik_dev
