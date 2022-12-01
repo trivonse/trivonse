@@ -11,9 +11,7 @@
 Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 -->
-<br />
-<br />
-
+<hr>
 ### Tools and Programs:
 [<img align="left" alt="Linux" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
 [<img align="left" alt="Linux Ubuntu" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
@@ -21,12 +19,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="PhpStorm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" />][phpstorm]
 [<img align="left" alt="Sublime" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.png" />][sublime]
 [<img align="left" alt="PostMan" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
-
-<br />
-<br />
 <hr>
-### Technologies I am familiar with:
-<h3>Frontend  knowledge</h3>
+### Frontend  knowledge:
 [<img align="left" alt="Html5" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/html5.png" />][html5]
 [<img align="left" alt="Css3" width="30px" src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3.png" />][css3]
 [<img align="left" alt="Bootstrap" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
@@ -39,7 +33,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" />][figma]
 
 <hr>
-<h3>Telegram Bot</h3>
+### Telegram Bot:
 [<img align="left" alt="Linux Terminal" width="30px" src="https://cdn-icons-png.flaticon.com/512/5064/5064876.png" />][shell]
 [<img align="left" alt="Linux Shell" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
 [<img align="left" alt="MySQL" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mysql.png" />][mysql]
@@ -51,9 +45,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Vue" width="30px" src="https://cdn-icons-png.flaticon.com/512/59/59137.png" />][wordpress]
 
 <hr>
-<br />
-<br />
-<br />
 
 ### Connect with me:
 
