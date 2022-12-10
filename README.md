@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Linux Ubuntu" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
 [<img align="left" alt="Sublime" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.png" />][sublime]
 [<img align="left" alt="PostMan" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
-[<img align="left" alt="W3c" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/w3c.png" />][v3c]
 [<img align="left" alt="VisualStudioCode" width="30px" src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" />][vscode]
 [<img align="left" alt="Figma" width="30px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" />][figma]
 <br />
