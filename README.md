@@ -1,7 +1,7 @@
 ## Hi there, I'm Jamshid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jamik-dev)
 
-![](https://media.giphy.com/media/KfI70Smd38QcqteliH/giphy.gif) ![](https://media.giphy.com/media/RDfwv0kan43jAZ3S0D/giphy.gif)
+![](https://media.giphy.com/media/KfI70Smd38QcqteliH/giphy.gif)      ![](https://media.giphy.com/media/RDfwv0kan43jAZ3S0D/giphy.gif)
 
 - 🔭 I’m currently working with [Vue.js](https://vuejs.org/)
  
