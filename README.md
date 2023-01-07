@@ -6,9 +6,6 @@
 - 🔭 I’m currently working with [Vue.js](https://vuejs.org/)
  
 - 🌱 Mathematic, Algorithm solver, English, Vue js developer, Workout lover
-
-<img src="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" style="width:100%;" alt="Snake">
-
 <!--
 **jamik-dev/jamik-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
