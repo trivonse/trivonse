@@ -6,6 +6,9 @@
 - 🔭 I’m currently working with [Vue.js](https://vuejs.org/)
  
 - 🌱 Mathematic, Algorithm solver, English, Vue js developer, Workout lover
+
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
 <!--
 **jamik-dev/jamik-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
