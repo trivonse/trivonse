@@ -7,6 +7,8 @@
  
 - 🌱 Mathematic, Algorithm solver, English, Vue js developer, Workout lover
 
+<a href=#><img src="contributions.svg"></a>
+
 ![](https://media.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
 <!--
