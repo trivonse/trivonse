@@ -85,15 +85,4 @@ Here are some ideas to get you started:
 [ubuntu]: https://ubuntu.com
 [terminal]: https://cocalc.com/doc/terminal.html
 
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+© 2023 GitHub
