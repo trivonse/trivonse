@@ -13,13 +13,6 @@
 Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 -->
-### Connect with me:
-[<img align="left" alt="siberfx | E-mail" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/envelope.gif" />][email]
-[<img align="left" alt="siberfx | Telegram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/telegram.gif" />][telegram]
-[<img align="left" alt="siberfx | LinkedIn" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linkedin.gif" />][linkedin]
-[<img align="left" alt="siberfx | Instagram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/instagram.gif" />][instagram]
-<br />
-<br />
 
 [![Jamshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamik-dev&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br />
