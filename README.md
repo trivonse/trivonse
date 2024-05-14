@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/KfI70Smd38QcqteliH/giphy.gif)
 
-- 🔭 I’m currently working with [Vue.js](https://vuejs.org/)
+- 🔭 I’m currently working with [Vue.js](https://vuejs.org/), [Nuxt.js](https://nuxt.com/)
  
 - 🌱 Mathematic, Algorithm solver, English, Vue js developer, Workout lover
 
