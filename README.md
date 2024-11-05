@@ -22,11 +22,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamik-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[email]: mailto:jamik.oik.group@gmail.com
-[telegram]: https://t.me/jamik_dev
-[instagram]: https://instagram.com/jamshid_khamidovich
-[linkedin]: https://www.linkedin.com/in/jamshid-toshov-25b9b2219
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ilkhoeri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jamshidation) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamshid-toshov-25b9b2219) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17971520/jamshid) [![YouTube](https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@jamshid_khamidovich) [![X](https://img.shields.io/badge/-12100E.svg?logo=X&logoColor=white)](https://x.com/trivonse) [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://t.me/jamik_dev)
 
-[![](https://visitcount.itsvg.in/api?id=ilkhoeri&icon=6&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jamik-dev&icon=6&color=12)](https://visitcount.itsvg.in)
 
 © 2024 GitHub
