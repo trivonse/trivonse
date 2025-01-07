@@ -16,9 +16,6 @@
 [![](https://github-readme-stats.vercel.app/api?username=trivonse&theme=dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)](https://github.com/trivonse)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=trivonse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/trivonse)
 
-### 🔝 Top Contributed Repo
-[![](https://github-contributor-stats.vercel.app/api?username=trivonse&hide_contributor_rank=false&theme=dark&combine_all_yearly_contributions=true&order_by=contributions)](https://github.com/trivonse)
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088053337234) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jamshidation) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trivonse) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17971520/jamshid) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@jamshid_khamidovich) [![X](https://img.shields.io/badge/-12100E.svg?logo=X&logoColor=white)](https://x.com/trivonse) [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://t.me/trivonse)
 
