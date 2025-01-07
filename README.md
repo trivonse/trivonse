@@ -21,4 +21,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=trivonse&icon=6&color=12)](https://visitcount.itsvg.in)
 
-© 2024 GitHub
+© 2025 GitHub
